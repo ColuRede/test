@@ -1,0 +1,77 @@
+	<!DOCTYPE html>
+	<html lang="cs-CZ">		
+	  <head>
+	  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+			<title>Samostatná práce + jerky</title> 
+		<style>
+			table, th, td {border:1px solid black;} 
+			div {
+				color: white;
+				background-color: #009900;
+				margin: 2px;
+				font-size: 25px;
+				text-align: center;
+				}
+			body
+			{
+				background-color:powderblue;
+			}
+			h1
+			{
+				text-align: center;color:black;font-size:400%;
+			}
+			
+			span
+			{
+				color: #584EF2;
+			}
+				
+		</style>
+	  </head>
+
+	 
+		 <h1>  Výroba domácího jerky dělané s láskou  </h1>
+		
+			<span>Jsme začínající malá firma, která má velice ráda maso 
+							a uznává starší způsoby zpracování masa. Mudeme rádi, 
+						    když si u nás vyberete a následně budete spokojení.
+			</span>
+		<hr>														
+	   <p> <h3> Základní informace o nás a našich produktech </h3>
+	   <p> <h3> E-shop </h3>
+	   <p> <h3> Možnosti reklamace </h3>
+	   <p> <h3> Kontakty </h3>
+		
+
+
+
+			<table style="width:100%"> 
+				<tr>
+					<th>Název produktu</th>
+					<th>Informace     </th>
+					<th>Množství      </th>
+					<th>Cena          </th>
+				</tr>
+				<tr>
+					<td>Hovězí jerky</td>
+					<td>Hovězí jerky je sice trochu tužší ale za to má velice výraznou chuť, kterou ocení opravdový chlapy</td>
+					<td>50g</td>
+					<td>75,-</td>
+				</tr>
+			</table>
+
+
+			<div> Pokud by jste měli zájem o spolupráci s námi budeme rádi když se nám ozvete na tel 785 123 957. </div>
+
+					
+		<p> <h5> Pokud by jste měli nějaké pochybnosti o našem masu, zde si můžete přečíst a přínosu sušeného masa na tělo. </h5>
+		<p>Odkaz na <a href="https://www.doplnvitamin.cz/clanky/susene-maso-idealni-jako-svacina/">Výhody jezení sušeného masa</a>.</p>
+
+
+		<img src="1.imagine.jpg" alt="1.Obrázek" style="width:150px;height:160px;">
+		<img src="2.image.jpg" alt="2.Obrázek" style="width:130px;height:100px;">	
+
+		<p> <span> Budu doufat, že tato stránka bude dostačující </span> na získání poloviny zápočtu.
+
+	  </body>
+	</html>
